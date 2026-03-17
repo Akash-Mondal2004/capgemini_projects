@@ -1,0 +1,12 @@
+package day11;
+
+public class It extends Employee {
+	double varpay = 200000;
+	@Override
+	public double monthlySalCal() {
+		return (varpay + basepay)/12;
+	}
+	public double monthlySalCal(int bonus) {
+		return (varpay + basepay+bonus)/12;
+	}
+}

@@ -1,0 +1,9 @@
+BeanCreationException -> when we called through 
+UnstaisfiedDependencyException -> 
+
+if you have custom object field and you won't    autowire attribute 
+
+
+autowire = bytype /byname / default
+
+autowire bytype did not work for string type ,,, why ??

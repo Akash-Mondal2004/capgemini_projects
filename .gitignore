@@ -1,0 +1,38 @@
+# Eclipse project metadata
+.metadata/
+/.metadata/
+**/.settings/
+**/.project
+**/.classpath
+
+# Build output
+**/bin/
+**/target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Eclipse launch configurations (optional)
+*.launch
+
+# Maven (if used)
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IntelliJ
+**/.idea/
+**/*.iml
+**/*.iws
+**/*.ipr
